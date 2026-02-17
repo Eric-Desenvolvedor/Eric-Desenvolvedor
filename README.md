@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/GitHub-EricLima-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/ericdesenvolvedor/">
-    <img width = 10% src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
+    <img width = 1% src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
   </a>
  <a href="eric.profissionaldev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
