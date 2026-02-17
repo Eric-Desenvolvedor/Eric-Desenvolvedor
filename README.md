@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/GitHub-EricLima-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/ericdesenvolvedor/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
   </a>
- <a href="eric.personblack@gmail.com">
+ <a href="eric.profissionaldev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
 </p>
