@@ -3,22 +3,6 @@
 
 ---
 
-## 🌐 Como me encontrar
-
-<p align="left">
-  <a href="https://github.com/Eric-Desenvolvedor">
-    <img src="https://img.shields.io/badge/GitHub-EricLima-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ericdesenvolvedor/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
- <a href="eric.personblack@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -44,11 +28,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Como me encontrar
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/Eric-Desenvolvedor">
+    <img src="https://img.shields.io/badge/GitHub-EricLima-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ericdesenvolvedor/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+ <a href="eric.personblack@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
 </p>
 
 ---
