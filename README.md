@@ -3,6 +3,13 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eric-Desenvolvedor&show_icons=true&theme=radical&title_color=04C0E3" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eric-Desenvolvedor&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320&title_color=04C0E3" />
+</a>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
